@@ -1,4 +1,5 @@
 "# HR-Management-System" 
+
 To maintain the data of all active and inactive employees requires a significant amount of time if we do it 
 without software.Every organization has their own human resources in order to perform the internal and 
 external human resource activities. Among the total human resource activities, managing the human 
